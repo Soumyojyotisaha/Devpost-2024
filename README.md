@@ -88,6 +88,7 @@ The user interface is brought to life with a dynamic frontend service, incorpora
 
 ![Motion Amplification Video](https://github.com/Soumyojyotisaha/Devpost-2024/blob/main/assets/283361131-52330a3e-c2cd-48db-9bca-1090c2f97cc3.gif)
 
+# 💡 Working Model <a name="working"></a>
 ![Flow](https://github.com/Soumyojyotisaha/Devpost-2024/blob/main/assets/283364094-c3c043d1-0e81-46dd-8d87-d54e4ffde545.jpeg)
 
 ## Demonstration
