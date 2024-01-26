@@ -4,7 +4,7 @@
 
 <h1 align="center">Motion Amplification Video Techniques for Vibration Analysis</h1>
 
-![Motion Amplification Video](https://github.com/vp-1234ms/SIH2023/assets/102847008/421bf306-46cb-4869-a285-32557d155ca5)
+![Motion Amplification Video](https://github.com/Soumyojyotisaha/Devpost-2024/blob/main/assets/283361105-421bf306-46cb-4869-a285-32557d155ca5.gif)
 
 # 📝 Description <a name="description"></a>
 
@@ -22,7 +22,7 @@ Motion Amplification Video (MAV) is a technique used to visualize and measure vi
 8. Apply a color map to enhance motion visualization.
 9. Generate data, mode shapes, FFT (Fast Fourier Transform) spectrum results, and time waveforms for vibrational analysis, along with detailed reports.
 
-![Motion Amplification Video](https://github.com/vp-1234ms/SIH2023/assets/102847008/8685995d-a156-4e86-b75a-2ab273630e05)
+![Motion Amplification Video](https://github.com/Soumyojyotisaha/Devpost-2024/blob/main/assets/283361105-421bf306-46cb-4869-a285-32557d155ca5.gif)
 
 # 📝 Use Cases <a name="use"></a>
 
@@ -48,9 +48,9 @@ Motion Amplification Video (MAV) is a technique used to visualize and measure vi
 - **Data Visualization:** Matplotlib, Seaborn, Statistics
 - **Frontend Service:** ReactJS, NextJS, MaterialUI, Tauri, ElectronJS, CSS, HTML, JS, ApolloClient
 
-![Motion Amplification Video](https://github.com/vp-1234ms/SIH2023/assets/102847008/52330a3e-c2cd-48db-9bca-1090c2f97cc3)
+![Motion Amplification Video](https://github.com/Soumyojyotisaha/Devpost-2024/blob/main/assets/283361131-52330a3e-c2cd-48db-9bca-1090c2f97cc3.gif)
 
-![Flow](https://github.com/vp-1234ms/SIH2023/assets/102847008/c3c043d1-0e81-46dd-8d87-d54e4ffde545)
+![Flow](https://github.com/Soumyojyotisaha/Devpost-2024/blob/main/assets/283364094-c3c043d1-0e81-46dd-8d87-d54e4ffde545.jpeg)
 
 ## Demonstration
 [View Demonstration](https://github.com/vp-1234ms/SIH2023/assets/102847008/ae5fca94-d9d8-4003-ac83-76b313294f65)
