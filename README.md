@@ -39,10 +39,10 @@ Motion Amplification Video (MAV) stands as an innovative technique designed to b
 **Structural Health Monitoring:
 MAV emerges as a pivotal tool in Structural Health Monitoring, adept at uncovering concealed defects within buildings and bridges. By doing so, it serves as a safeguard, ensuring the ongoing safety and integrity of these structures.
 
--**Machinery Condition Assessment:
+**Machinery Condition Assessment:
 In the realm of industrial machinery, MAV assumes a critical role in the assessment of conditions. It excels in the detection of defects, imbalances, or misalignments within equipment, thereby acting as a proactive measure to avert breakdowns and enhance operational reliability.
 
--**Automotive Diagnostics:
+**Automotive Diagnostics:
 Within the automotive domain, MAV proves instrumental in the realm of diagnostics. It is applied to diagnose and elevate the performance of vehicle components, contributing significantly to both safety and reliability on the road.
 
 -**Automobile Industry:
