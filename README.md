@@ -36,23 +36,22 @@ Motion Amplification Video (MAV) stands as an innovative technique designed to b
 
 # 📝 Use Cases <a name="use"></a>
 
-**Structural Health Monitoring:
-
+**Structural Health Monitoring:**
 MAV emerges as a pivotal tool in Structural Health Monitoring, adept at uncovering concealed defects within buildings and bridges. By doing so, it serves as a safeguard, ensuring the ongoing safety and integrity of these structures.
 
-**Machinery Condition Assessment:
+**Machinery Condition Assessment:**
 In the realm of industrial machinery, MAV assumes a critical role in the assessment of conditions. It excels in the detection of defects, imbalances, or misalignments within equipment, thereby acting as a proactive measure to avert breakdowns and enhance operational reliability.
 
-**Automotive Diagnostics:
+**Automotive Diagnostics:**
 Within the automotive domain, MAV proves instrumental in the realm of diagnostics. It is applied to diagnose and elevate the performance of vehicle components, contributing significantly to both safety and reliability on the road.
 
--**Automobile Industry:
+**Automobile Industry:**
 In the manufacturing landscape of automobiles, MAV becomes an indispensable ally. By scrutinizing vibrations within automotive components, it becomes a valuable tool in quality control during the manufacturing process and aids in ongoing vehicle maintenance.
 
--**Power Plants:
+**Power Plants:**
 In the critical infrastructure of power plants, MAV is employed to monitor vibrations, ensuring both reliability and safety. Its capability to identify potential faults and optimize maintenance schedules contributes to the overall efficiency and longevity of power plant operations.
 
--**Aerospace Industry:
+-**Aerospace Industry:**
 Within the aerospace sector, MAV plays a crucial role in assessing the structural integrity of aircraft, spacecraft, and their components. By ensuring safety and compliance, MAV contributes to the precision and reliability demanded in the dynamic and challenging environment of aerospace engineering.
 
 # 💡 Novelty <a name="novelty"></a>
