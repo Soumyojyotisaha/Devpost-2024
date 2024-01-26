@@ -51,39 +51,39 @@ In the manufacturing landscape of automobiles, MAV becomes an indispensable ally
 **Power Plants:**
 In the critical infrastructure of power plants, MAV is employed to monitor vibrations, ensuring both reliability and safety. Its capability to identify potential faults and optimize maintenance schedules contributes to the overall efficiency and longevity of power plant operations.
 
--**Aerospace Industry:**
+**Aerospace Industry:**
 Within the aerospace sector, MAV plays a crucial role in assessing the structural integrity of aircraft, spacecraft, and their components. By ensuring safety and compliance, MAV contributes to the precision and reliability demanded in the dynamic and challenging environment of aerospace engineering.
 
 # 💡 Novelty <a name="novelty"></a>
 
 
--**Eulerian Video Magnification:
+**Eulerian Video Magnification:**
 This advanced technique, Eulerian Video Magnification, goes beyond conventional methods by imbuing Motion Amplification Videos (MAV) with vibrant colors. This innovation leads to superior outcomes, effectively accentuating nuanced changes in color within video footage. The result is a heightened level of precision in capturing and amplifying subtle dynamic shifts.
 
--**Temporal Filters:
+**Temporal Filters:**
 The application of temporal filters stands as a pivotal step in refining motion amplification videos. By adeptly reducing noise and augmenting clarity, these filters elevate the overall quality of the visual output. This enhancement ensures that the amplified motion is presented with a remarkable level of precision and fidelity.
 
--**Detailed Report on Vibrational Analysis:
+**Detailed Report on Vibrational Analysis:**
 The culmination of the vibrational analysis process is a comprehensive and detailed report. This report is not merely a compilation but a meticulous documentation that encapsulates crucial insights. It includes a Fast Fourier Transform (FFT) spectrum analysis, a time waveform depiction, and insightful statistical data derived from the video frames. This holistic report forms the foundation for a nuanced understanding of the vibrational dynamics under scrutiny.
 
--**Lucas-Kanade Method:
+**Lucas-Kanade Method:**
 At the core of the analysis lies the Lucas-Kanade Method, a sophisticated optical flow generation technique. This method plays a pivotal role in accurately detecting the direction of vibrations within the visual data. By leveraging optical flow principles, the Lucas-Kanade Method provides a robust foundation for deciphering and interpreting the intricate patterns of motion, contributing significantly to the overall accuracy and reliability of the analysis.
 
 ## ⛏️ Built With <a name="tech_stack"></a>
 
--**Data Analysis:
+**Data Analysis:**
 The process of data analysis encompasses a multifaceted approach, involving the systematic collection, integration, handling, management, and processing of data. Each phase is meticulously executed to derive meaningful insights and inform decision-making processes.
 
--**Backend Service:
+**Backend Service:**
 The backbone of the system is supported by a robust backend service, leveraging technologies such as NodeJS, ExpressJS, GraphQL, and Flask. These frameworks and tools collectively ensure efficient data flow, seamless communication, and a responsive infrastructure capable of handling diverse functionalities.
 
--**Machine Learning:
+**Machine Learning:**
 The machine learning ecosystem is harnessed with a powerful arsenal of tools and libraries, including Python, TensorFlow, Numpy, Pandas, Scikit_Learn, Jupyter Notebook, VsCode, Flask, Keras, and comprehensive knowledge in both machine learning (ML) and deep learning (DL) techniques, such as Convolutional Neural Networks (CNN), Artificial Neural Networks (ANN), and general neural networking principles.
 
--**Data Visualization:
+**Data Visualization:**
 Transforming raw data into comprehensible insights is achieved through data visualization tools. Matplotlib and Seaborn, coupled with statistical methodologies, play a pivotal role in presenting complex data structures in an easily digestible format.
 
--**Frontend Service:
+**Frontend Service:**
 The user interface is brought to life with a dynamic frontend service, incorporating technologies such as ReactJS, NextJS, MaterialUI, Tauri, ElectronJS, CSS, HTML, JS, and ApolloClient. This amalgamation ensures an engaging and responsive user experience, seamlessly integrating with the backend services for a cohesive and interactive platform.
 
 ![Motion Amplification Video](https://github.com/Soumyojyotisaha/Devpost-2024/blob/main/assets/283361131-52330a3e-c2cd-48db-9bca-1090c2f97cc3.gif)
