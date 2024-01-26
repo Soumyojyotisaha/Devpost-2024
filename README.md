@@ -13,14 +13,23 @@ Motion Amplification Video (MAV) stands as an innovative technique designed to b
 # 💡 Approach <a name="approach"></a>
 
 1.Integrate the video footage into a sophisticated desktop application that encompasses the targeted object or structure exhibiting vibrations for in-depth analysis.
+
 2.Execute a meticulous frame-by-frame scrutiny employing a cutting-edge 2-frame methodology tailored for motion amplification purposes.
+
 3.Define pivotal parameters governing the motion analysis, including but not limited to frame rate, resolution, and the duration earmarked for analysis.
+
 4.Harness the power of the Lucas-Kanade method, a robust Optical Flow technique, to meticulously compute the motion nuances between successive frames.
+
 5.Establish a comprehensive mask, intricately designed to unveil the intricate web of motion vectors, while fine-tuning parameters governing point selection and motion precision.
+
 6.Illuminate the visual landscape with dynamic red lines and circles, serving as graphic markers to accentuate the detected motion.
+
 7.Deploy the Eulerian Video Magnification technique to intensify motion within each frame, achieved by strategically scaling pixel values with an adaptable scaling factor.
+
 8.Infuse a vibrant color map into the visual output, elevating the motion visualization experience to new heights.
+
 9.Systematically generate a wealth of analytical data, including mode shapes, FFT (Fast Fourier Transform) spectrum results, and time waveforms, forming the bedrock for a comprehensive vibrational analysis. 
+
 10.This meticulous process culminates in the production of detailed reports, providing a holistic understanding of the vibrational dynamics at play.
 
 ![Motion Amplification Video](https://github.com/Soumyojyotisaha/Devpost-2024/blob/main/assets/283361105-421bf306-46cb-4869-a285-32557d155ca5.gif)
