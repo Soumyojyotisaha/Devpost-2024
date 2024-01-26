@@ -37,6 +37,7 @@ Motion Amplification Video (MAV) stands as an innovative technique designed to b
 # 📝 Use Cases <a name="use"></a>
 
 **Structural Health Monitoring:
+
 MAV emerges as a pivotal tool in Structural Health Monitoring, adept at uncovering concealed defects within buildings and bridges. By doing so, it serves as a safeguard, ensuring the ongoing safety and integrity of these structures.
 
 **Machinery Condition Assessment:
