@@ -4,7 +4,7 @@
 
 <h1 align="center">Motion Amplification Video Techniques for Vibration Analysis</h1>
 
-![Motion Amplification Video](https://github.com/Soumyojyotisaha/Devpost-2024/blob/main/assets/283361105-421bf306-46cb-4869-a285-32557d155ca5.gif)
+![Motion Amplification Video](https://github.com/Soumyojyotisaha/Devpost-2024/blob/main/assets/283361120-8685995d-a156-4e86-b75a-2ab273630e05.gif)
 
 # 📝 Description <a name="description"></a>
 
